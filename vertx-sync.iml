@@ -25,7 +25,7 @@
     <orderEntry type="library" name="Maven: io.netty:netty-codec-dns:4.1.19.Final" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.6" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.6" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.6" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
     <orderEntry type="library" name="Maven: co.paralleluniverse:quasar-core:0.8.0" level="project" />
     <orderEntry type="library" name="Maven: io.dropwizard.metrics:metrics-jmx:4.1.0-rc2" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
